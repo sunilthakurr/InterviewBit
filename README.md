@@ -23,13 +23,14 @@ You can try out the GitHub Analytics Visualizer [here](#) (insert link to deploy
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
+- **Frontend:** HTML, CSS, JavaScript, React.js
 - **API:** GitHub API
 
 ## Installation
 
 To run GitHub Analytics Visualizer locally, follow these steps:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine
+2. Install the required dependencies using (npm install)
+3. Run the project (using npm run dev).
 
