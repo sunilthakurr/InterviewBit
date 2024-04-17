@@ -9,9 +9,6 @@ GitHub Analytics Visualizer is a web application that allows users to visualize 
 - **Detailed Analytics:** Provides detailed statistics such as stars, forks, and open issues for each repository.
 - **Direct Repository Access:** Users can directly access the repository by clicking on the repository name.
 
-## Demo
-
-You can try out the GitHub Analytics Visualizer [here](#) (insert link to deployed application).
 
 ## How to Use
 
